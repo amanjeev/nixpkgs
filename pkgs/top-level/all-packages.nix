@@ -20466,6 +20466,8 @@ in
     jdk = callPackage ../development/compilers/jetbrains-jdk {  };
   });
 
+  jetbrains-toolbox = callPackage ../applications/editors/jetbrains/toolbox { };
+
   libquvi = callPackage ../applications/video/quvi/library.nix { };
 
   librespot = callPackage ../applications/audio/librespot {
