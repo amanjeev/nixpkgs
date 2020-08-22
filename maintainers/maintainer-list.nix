@@ -426,6 +426,12 @@
     githubId = 15623522;
     name = "Amar Paul";
   };
+  amanjeev = {
+    email = "aj@amanjeev.com";
+    github = "amanjeev";
+    githubId = 160476;
+    name = "Amanjeev Sethi";
+  };
   ambrop72 = {
     email = "ambrop7@gmail.com";
     github = "ambrop72";
